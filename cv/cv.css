@@ -1,3 +1,15 @@
+*{
+    background-color: #2a2528;
+}
+
 h1 {
-    color:yellowgreen;
+    color:#b2ff0e;
+
+}
+
+h2,h3{
+    color:#b2ff0e;
+}
+p{
+    color:aliceblue;
 }
